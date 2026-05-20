@@ -1,12 +1,12 @@
 import React from 'react'
-import Logo from './components/sec-1/Logo'
-import Navbar from './components/sec-1/Navbar'
+import Section1 from './components/sec-1/Section1'
+import Section2 from './components/sec-2/Section2'
 
 const App = () => {
   return (
-    <div className='flex items-center justify-between pt-10 pl-20 pr-20 pb-10 '>
-      <Logo/>
-      <Navbar/>
+    <div className='pl-20 pr-20'>
+      <Section1/>
+      <Section2/>
     </div>
   )
 }
