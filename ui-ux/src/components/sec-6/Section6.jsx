@@ -15,7 +15,7 @@ const Section6 = () => {
             soluta id cupiditate. Nesciunt soluta dignissimos ad nemo
             praesentium doloribus voluptate beatae nam. Tenetur, dicta?
           </p>
-          <div className="flex items-center gap-2">
+          <div className="flex pt-5 items-center gap-2">
             <p className="text-lg text-lime-400">Learn more</p>
             <i className="ri-arrow-right-up-line text-3xl w-9.5 rounded-full text-lime-400"></i>
           </div>
@@ -26,7 +26,7 @@ const Section6 = () => {
             soluta id cupiditate. Nesciunt soluta dignissimos ad nemo
             praesentium doloribus voluptate beatae nam. Tenetur, dicta?
           </p>
-          <div className="flex items-center gap-2">
+          <div className="flex pt-5 items-center gap-2">
             <p className="text-lg text-lime-400">Learn more</p>
             <i className="ri-arrow-right-up-line text-3xl w-9.5 rounded-full text-lime-400"></i>
           </div>
@@ -37,7 +37,7 @@ const Section6 = () => {
             soluta id cupiditate. Nesciunt soluta dignissimos ad nemo
             praesentium doloribus voluptate beatae nam. Tenetur, dicta?
           </p>
-          <div className="flex items-center gap-2">
+          <div className="flex pt-5 items-center gap-2">
             <p className="text-lg text-lime-400">Learn more</p>
             <i className="ri-arrow-right-up-line text-3xl w-9.5 rounded-full text-lime-400"></i>
           </div>

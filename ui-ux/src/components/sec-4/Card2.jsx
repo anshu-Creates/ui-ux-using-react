@@ -10,7 +10,7 @@ const Card2 = (props) => {
               <p className='text-lg text-white'>Learn more</p>
             </div>
         </div>
-        <img src={props.img} className='p-5'></img>
+        <img src={props.img} className='w-80 h-70 p-5'></img>
     </div>
   )
 }
