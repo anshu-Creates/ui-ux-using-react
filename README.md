@@ -57,6 +57,24 @@ src/
 
 ---
 
+## Screenshots
+
+![Navbar](./src/assets/navbar.png)
+
+![Main](./src/assets/main.png)
+
+![Company Banner](./src/assets/company.png)
+
+![Service Header](./src/assets/servicehead.png)
+
+![Services](./src/assets/services.png)
+
+![Banner](./src/assets/banner.png)
+
+![Case Study](./src/assets/casestudy.png)
+
+---
+
 ## Installation
 
 Clone the repository:
